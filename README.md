@@ -8,3 +8,5 @@ These are the exercises im doing
 - 28/05/2025: two-sum -> twoSum
 
 - 29/05/2025: median-of-two-sorted-arrays -> MedianSortArrays
+
+- 30/05/2025: longest-palindromic-substring -> LongPaliSubs
