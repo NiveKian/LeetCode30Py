@@ -17,3 +17,5 @@ These are the exercises im doing
 - 02/06/2025: zigzag-conversion -> ZigZagConv
 
 - 03/06/2025: reverse-integer -> RevInt
+
+- 04/06/2025: string-to-integer-atoi -> Atoi
