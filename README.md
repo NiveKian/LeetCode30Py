@@ -19,3 +19,5 @@ These are the exercises im doing
 - 03/06/2025: reverse-integer -> RevInt
 
 - 04/06/2025: string-to-integer-atoi -> Atoi
+
+- 05/06/2025: palindrome-number -> PaliNum
