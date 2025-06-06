@@ -3,7 +3,7 @@ These are the exercises im doing
 
   obs: im skiping weekends :P
 
-
+Week 01:
 - 26/05/2025: longest-substring-without-repeating-characters -> LonSubWRepChar
 
 - 27/05/2025: add-two-numbers -> Add2Nums
@@ -14,6 +14,8 @@ These are the exercises im doing
 
 - 30/05/2025: longest-palindromic-substring -> LongPaliSubs
 
+
+Week 02:
 - 02/06/2025: zigzag-conversion -> ZigZagConv
 
 - 03/06/2025: reverse-integer -> RevInt
@@ -21,3 +23,6 @@ These are the exercises im doing
 - 04/06/2025: string-to-integer-atoi -> Atoi
 
 - 05/06/2025: palindrome-number -> PaliNum
+
+- 06/06/2025: FAILED: regular-expression-matching -> RegExpMatch_og.py -> RegExpMatch
+                                             
