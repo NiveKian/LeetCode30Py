@@ -25,4 +25,7 @@ Week 02:
 - 05/06/2025: palindrome-number -> PaliNum
 
 - 06/06/2025: FAILED: regular-expression-matching -> RegExpMatch_og.py -> RegExpMatch
+
+Week 03:
+- 09/06/2025: container-with-most-water -> conWithMostWater
                                              
