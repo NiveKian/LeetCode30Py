@@ -28,4 +28,6 @@ Week 02:
 
 Week 03:
 - 09/06/2025: container-with-most-water -> conWithMostWater
+
+- 09/06/2025: valid-parentheses -> valpal
                                              
