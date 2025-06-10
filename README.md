@@ -32,4 +32,6 @@ Week 03:
 - 09/06/2025: valid-parentheses -> valpal
 
 - 10/06/2025: contains-duplicate -> hasDup
+
+- 10/06/2025: maximum-difference-between-even-and-odd-frequency-i -> MaxDifEvenOddFreq
                                              
