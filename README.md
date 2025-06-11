@@ -34,4 +34,6 @@ Week 03:
 - 10/06/2025: contains-duplicate -> hasDup
 
 - 10/06/2025: maximum-difference-between-even-and-odd-frequency-i -> MaxDifEvenOddFreq
+
+- 11/06/2025: integer-to-roman -> intToRom
                                              
