@@ -40,4 +40,7 @@ Week 03:
 - 12/06/2025: spiral-matrix -> spiMtrx
 
 - 13/06/2025: valid-anagram -> valAngrm
+
+Week 04:
+- 16/06/2025: roman-to-integer -> RomToInt
                                              
