@@ -44,5 +44,7 @@ Week 03:
 Week 04:
 - 16/06/2025: roman-to-integer -> RomToInt
 
-- 17/07/2025: longest-common-prefix -> longComPrfx
+- 17/06/2025: longest-common-prefix -> longComPrfx
+
+- 18/06/2025: 3sum -> 3sum
                                              
