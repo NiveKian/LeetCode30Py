@@ -3,7 +3,7 @@ These are the exercises im doing
 
   obs: im skiping weekends :P
 
-Week 01:
+Week 01 (5):
 - 26/05/2025: longest-substring-without-repeating-characters -> LonSubWRepChar
 
 - 27/05/2025: add-two-numbers -> Add2Nums
@@ -15,7 +15,7 @@ Week 01:
 - 30/05/2025: longest-palindromic-substring -> LongPaliSubs
 
 
-Week 02:
+Week 02 (5):
 - 02/06/2025: zigzag-conversion -> ZigZagConv
 
 - 03/06/2025: reverse-integer -> RevInt
@@ -26,7 +26,7 @@ Week 02:
 
 - 06/06/2025: FAILED: regular-expression-matching -> RegExpMatch_og.py -> RegExpMatch
 
-Week 03:
+Week 03 (7):
 - 09/06/2025: container-with-most-water -> conWithMostWater
 
 - 09/06/2025: valid-parentheses -> valpal
@@ -41,10 +41,14 @@ Week 03:
 
 - 13/06/2025: valid-anagram -> valAngrm
 
-Week 04:
+Week 04 (3):
 - 16/06/2025: roman-to-integer -> RomToInt
 
 - 17/06/2025: longest-common-prefix -> longComPrfx
 
 - 18/06/2025: 3sum -> 3sum
-                                             
+
+- Unexpected Break 19/06 till 03/07
+
+Week 05 (1) (IM BACK FINALLY):
+- 04/06/2025: letter-combinations-of-a-phone-number -> letCombPhoNum                               
